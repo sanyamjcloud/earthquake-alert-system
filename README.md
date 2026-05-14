@@ -146,7 +146,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ![Map View](Screenshots/Dashboard/View-by-markers.png)
 
 ### Marker Detail — City, Magnitude, Confidence, Risk Level
-![Marker Detail](screenshots/Deep_analysis_by_selecting_a_marker.png)
+![Marker Detail](Screenshots/Dashboard/Deep-analysis-by-selecting-a-marker.png)
 
 ### Browser Push Notifications Active
 ![Push Notifications](screenshots/After_enabling_notifications_bar.png)
