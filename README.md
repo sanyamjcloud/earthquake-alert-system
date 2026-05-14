@@ -149,7 +149,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ![Marker Detail](Screenshots/Dashboard/Deep-analysis-by-selecting-a-marker.png)
 
 ### Browser Push Notifications Active
-![Push Notifications](screenshots/After_enabling_notifications_bar.png)
+![Push Notifications](Screenshots/Dashboard/After-enablingnotifications-bar.png)
 
 ### 30-Second Auto-Refresh Countdown
 ![Refresh Bar](screenshots/Refresh_bar_for_every_30_seconds.png)
