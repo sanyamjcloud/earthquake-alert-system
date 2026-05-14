@@ -6,7 +6,7 @@
   <br/>
 </p>
 
-# Earthquake Alert System
+# EARTHQUAKE ALERT SYSTEM
 
 > **CAP477 — Programming in Java** | Lovely Professional University, Punjab, India  
 > MCA (Hons.) AI & ML · 1st Year, 2nd Semester · Section D2533, Group 1  
