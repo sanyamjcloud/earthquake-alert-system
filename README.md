@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/EAS-Logo.png" width="140"/>
+</p>
+
 # Earthquake Alert System
 
 > **CAP477 — Programming in Java** | Lovely Professional University, Punjab, India  
