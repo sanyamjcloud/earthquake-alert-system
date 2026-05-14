@@ -137,7 +137,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ## 📸 Screenshots
 
 ### Main Dashboard — Dark Mode
-![Welcome Screen]("C:\Users\SANYAM JAIN\OneDrive\Documents\ShareX\Screenshots\2026-05\EAS\Welcome screen.png")
+![Welcome Screen](Screenshots/Dashboard/Welcome screen.png)
 
 ### Main Dashboard — Light Mode
 ![Light Mode Toggle](screenshots/Toggle_switch_bar.png)
