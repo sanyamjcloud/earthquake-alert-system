@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "generated": "2025-05-13T12:00:00Z",
+    "title": "Seismic Risk Forecast (Probabilistic Model Output)",
+    "modelVersion": "v1.0",
+    "dataSource": "simulated",
+    "algorithm": "probabilistic_seismic_risk_model",
+    "count": 6
+  },
+  "features": [
+    {
+      "id": "forecast_001",
+      "properties": {
+        "mag": 6.2,
+        "place": "Nankai Trough",
+        "city": "Osaka",
+        "region": "Kansai",
+        "country": "Japan",
+        "timeEpoch": 1747180800000,
+        "timeISO": "2025-05-13T12:00:00Z",
+        "forecastWindowHours": 48,
+        "confidence": 82,
+        "risk": "SEVERE",
+        "riskScore": 85,
+        "tectonicType": "subduction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.5, 32.8, 15]
+      }
+    },
+    {
+      "id": "forecast_002",
+      "properties": {
+        "mag": 5.8,
+        "place": "Andaman Subduction Zone",
+        "city": "Port Blair",
+        "region": "Andaman & Nicobar",
+        "country": "India",
+        "timeEpoch": 1747267200000,
+        "timeISO": "2025-05-14T12:00:00Z",
+        "forecastWindowHours": 36,
+        "confidence": 74,
+        "risk": "MODERATE",
+        "riskScore": 65,
+        "tectonicType": "subduction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.7, 11.6, 10]
+      }
+    },
+    {
+      "id": "forecast_003",
+      "properties": {
+        "mag": 6.0,
+        "place": "San Andreas Fault",
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA",
+        "timeEpoch": 1747353600000,
+        "timeISO": "2025-05-15T12:00:00Z",
+        "forecastWindowHours": 52,
+        "confidence": 76,
+        "risk": "SEVERE",
+        "riskScore": 88,
+        "tectonicType": "transform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5, 35.8, 12]
+      }
+    },
+    {
+      "id": "forecast_004",
+      "properties": {
+        "mag": 5.4,
+        "place": "North Anatolian Fault",
+        "city": "Istanbul",
+        "region": "Marmara",
+        "country": "Turkey",
+        "timeEpoch": 1747440000000,
+        "timeISO": "2025-05-16T12:00:00Z",
+        "forecastWindowHours": 68,
+        "confidence": 69,
+        "risk": "MODERATE",
+        "riskScore": 60,
+        "tectonicType": "transform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.9784, 41.0082, 8]
+      }
+    },
+    {
+      "id": "forecast_005",
+      "properties": {
+        "mag": 6.5,
+        "place": "Pacific Ring of Fire",
+        "city": "Santiago",
+        "region": "Valparaíso",
+        "country": "Chile",
+        "timeEpoch": 1747526400000,
+        "timeISO": "2025-05-17T12:00:00Z",
+        "forecastWindowHours": 72,
+        "confidence": 85,
+        "risk": "SEVERE",
+        "riskScore": 92,
+        "tectonicType": "subduction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.5, -33.5, 18]
+      }
+    },
+    {
+      "id": "forecast_006",
+      "properties": {
+        "mag": 4.9,
+        "place": "Himalayan Frontal Thrust",
+        "city": "Kathmandu",
+        "region": "Bagmati",
+        "country": "Nepal",
+        "timeEpoch": 1747612800000,
+        "timeISO": "2025-05-18T12:00:00Z",
+        "forecastWindowHours": 44,
+        "confidence": 62,
+        "risk": "MODERATE",
+        "riskScore": 55,
+        "tectonicType": "collision"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.324, 27.7172, 5]
+      }
+    }
+  ]
+}
