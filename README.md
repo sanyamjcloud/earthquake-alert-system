@@ -1,6 +1,6 @@
 <p align="center">
   <br/>
-  <a href="https://github.com/sanyamjcloud/earthquake-alert-system">
+  <a href="https://earthquake-alert-system-seven.vercel.app/">
     <img src="assets/EAS-Logo.png" width="140"/>
   </a>
   <br/>
