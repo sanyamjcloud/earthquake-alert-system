@@ -16,10 +16,10 @@ This is our major project for CAP477 — a full-stack seismic monitoring and pre
 
 | Name | Programme |
 |------|-----------|
-| Harsh Prasad | MCA (Hons.) AI & ML |
-| Sanyam Jain | MCA (Hons.) AI & ML |
-| Amit Kumar | MCA (Hons.) AI & ML |
-| Rajib Kumar Dhara | MCA (Hons.) AI & ML |
+| HARSH PRASAD | MCA (Hons.) AI & ML |
+| SANYAM JAIN | MCA (Hons.) AI & ML |
+| AMIT KUMAR | MCA (Hons.) AI & ML |
+| RAJIB KUMAR DHARA | MCA (Hons.) AI & ML |
 
 ---
 
