@@ -60,7 +60,7 @@ The AI Alert Engine monitors all 196 countries simultaneously (you'll see "196 A
 
 ## Tech Stack
 
-| LAYER | TECHNOLOGY |
+| layer| technology |
 |-------|-----------|
 | Language | Java 17 |
 | Framework | Spring Boot 3.2.5 |
