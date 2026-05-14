@@ -209,7 +209,7 @@ We built this to actually demonstrate the things taught in the course, not just 
 3. Synchronous HTTP calls with `RestTemplate`
 4. JSON parsing with Jackson's `jackson-databind`
 5. CORS configuration so the frontend and backend can talk
-6. Maven project structure and dependency management
+6. Maven Project structure and dependency management
 7. Clean layered architecture: Controller → Service → External API
 8. Separation of concerns — config in `AppConfig`, business logic in `EarthquakeService`, routing in `EarthquakeController`
 
