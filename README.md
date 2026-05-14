@@ -152,7 +152,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ![Push Notifications](Screenshots/Dashboard/After-enablingnotifications-bar.png)
 
 ### 30-Second Auto-Refresh Countdown
-![Refresh Bar](screenshots/Refresh_bar_for_every_30_seconds.png)
+![Refresh Bar](Screenshots/Dashboard/Refres-bar-for-every-30-seconds.png)
 
 ### Forecast Table Sorted by Magnitude
 ![Magnitude Sorting](Screenshots/Dashboard/Magnitude-sorting.png)
