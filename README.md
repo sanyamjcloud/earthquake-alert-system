@@ -155,7 +155,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ![Refresh Bar](screenshots/Refresh_bar_for_every_30_seconds.png)
 
 ### Forecast Table Sorted by Magnitude
-![Magnitude Sorting](screenshots/Magnitude_sorting.png)
+![Magnitude Sorting](Screenshots/Dashboard/Magnitude-sorting.png)
 
 ---
 
