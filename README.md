@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/EAS-Logo.png" width="140"/>
+  <br/>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+    <img src="assets/EAS-Logo.png" width="140"/>
+  </a>
+  <br/>
 </p>
 
 # Earthquake Alert System
