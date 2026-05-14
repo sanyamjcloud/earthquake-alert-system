@@ -134,7 +134,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Dashboard — Dark Mode
 ![Welcome Screen](Screenshots/Dashboard/Welcome-screen.png)
@@ -143,7 +143,7 @@ When the browser asks for notification permission, click **Allow** — that's ho
 ![Toggle Switch Bar](Screenshots/Dashboard/Toggle-switch-bar.png)
 
 ### World Map with Prediction Markers
-![Map View](screenshots/View_by_markers.png)
+![Map View](Screenshots/Dashboard/View-by-markers.png)
 
 ### Marker Detail — City, Magnitude, Confidence, Risk Level
 ![Marker Detail](screenshots/Deep_analysis_by_selecting_a_marker.png)
